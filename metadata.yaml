@@ -1,0 +1,25 @@
+_repo: Une-courte-histoire-de-l-eBook_29802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lebert, Marie
+    gutenberg_agent_id: '32388'
+    url: http://www.gutenberg.org/2009/agents/32388
+description: ''
+gutenberg_bookshelf: FR Sciences et Techniques
+gutenberg_issued: '2009-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29802'
+language: fr
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'Z'
+- !lcsh 'Electronic books'
+title: Une courte histoire de l'eBook
+url: http://www.gutenberg.org/ebooks/29802
